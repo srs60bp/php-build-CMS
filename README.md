@@ -1,7 +1,10 @@
 # php-build-CMS
-==============================================
+================
+
 Build a CMS in an Afternoon with PHP and MySQL
 ==============================================
+
+https://www.elated.com/cms-in-an-afternoon-php-mysql/
 
 21 January 2011 / 586 Comments
 Build a CMS in an Afternoon with PHP and MySQL
